@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48855f9e-ba2a-4d13-9306-742951088b61" name="Default Changelist" comment="" />
+    <list default="true" id="48855f9e-ba2a-4d13-9306-742951088b61" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gmail/gorbasenko245/CommandServise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gmail/gorbasenko245/CommandServise.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZUUkq5VVGQQZOkfnADFCyddsmP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +34,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -54,12 +60,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584893311243</updated>
-      <workItem from="1584893313714" duration="17354000" />
+      <workItem from="1584893313714" duration="17630000" />
     </task>
+    <task id="LOCAL-00001" summary="selectionByParametr">
+      <created>1584974531450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584974531450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selectionByParametr" />
+    <option name="LAST_COMMIT_MESSAGE" value="selectionByParametr" />
   </component>
   <component name="WindowStateProjectService">
     <state x="570" y="151" key="#Project_Structure" timestamp="1584966733917">
@@ -78,6 +96,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="574" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584974247778" />
+    <state x="583" y="119" key="CommitChangelistDialog2" timestamp="1584974530799">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="583" y="119" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584974530799" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1584966719393">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -118,6 +140,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1584966720187" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1584974533128">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584974533128" />
     <state x="664" y="418" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584893679468">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

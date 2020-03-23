@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class CommandServise {
     DBServise dBflatServise = new DBServise();
     public void check(String command, Connection connection, Scanner scanner) throws SQLException {
+        //switch почему то в данно методе работает неккоректно
             if(command.equals("1")){
                 dBflatServise.addFlat(scanner,connection);
             }else{
